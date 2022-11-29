@@ -60,15 +60,10 @@ Seq2seq-attention house price prediction. See [Zhihu Article »](https://zhuanla
 
 ## Features Engineering
 
-<br>
-
 <img src='docs/feature_engineering.jpg' width=540 height=360>
-
-<br>
 
 ## Prediction
 
-<br>
 <table >
 	<tr>
 		<td>
@@ -95,7 +90,6 @@ Seq2seq-attention house price prediction. See [Zhihu Article »](https://zhuanla
 
 ## Contact
 
-<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' margin='10px' height='40'>](https://github.com/https://github.com/dr413677671) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@randuan9718/videos) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg' alt='zhihu' height='40'>](https://www.zhihu.com/people/kumonoue) 
 
