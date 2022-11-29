@@ -12,6 +12,13 @@
 
 <br />
 <div align="center">
+  <a href="https://github.com/dr413677671/Seq2seq-attention-house-price-prediction">
+    <img src="docs/logo.png" alt="Logo" width="384" height="216">
+  </a>
+</div>
+
+<br />
+<div align="center">
 
   <h3 align="center">Seq2seq-attention House Price Prediction</h3>
       <a href="https://zhuanlan.zhihu.com/p/106122616"><strong>知乎文章 Zhihu Article »</strong></a>
