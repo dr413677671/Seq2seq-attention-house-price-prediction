@@ -17,9 +17,10 @@
 </div>
 
 <div align="center">
-<summary><h1 style="display: inline-block;">Seq2seq-attention House Price Prediction</h1></summary>
-      <a href="https://zhuanlan.zhihu.com/p/106122616"><strong>知乎文章 -> Zhihu Article »</strong></a>
-      <br>
+<h1 style="display: inline-block; margin:10px; border: 0px; ">Seq2seq-attention House Price Prediction</h1>
+
+<a href="https://zhuanlan.zhihu.com/p/106122616"><strong>知乎文章 -> Zhihu Article »</strong></a>
+<br>
   <p align="center">
     <a href="https://github.com/dr413677671/Seq2seq-attention-house-price-prediction/issues">Report Bug</a>
     ·
