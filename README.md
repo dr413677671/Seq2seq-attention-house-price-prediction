@@ -10,18 +10,15 @@
 
 </div>
 
-<br />
 <div align="center">
   <a href="https://github.com/dr413677671/Seq2seq-attention-house-price-prediction">
     <img src="docs/logo.png" alt="Logo" width="384" height="216">
   </a>
 </div>
 
-<br />
 <div align="center">
-
-  <h3 align="center">Seq2seq-attention House Price Prediction</h3>
-      <a href="https://zhuanlan.zhihu.com/p/106122616"><strong>知乎文章 Zhihu Article »</strong></a>
+<summary><h1 style="display: inline-block;">Seq2seq-attention House Price Prediction</h1></summary>
+      <a href="https://zhuanlan.zhihu.com/p/106122616"><strong>知乎文章 -> Zhihu Article »</strong></a>
       <br>
   <p align="center">
     <a href="https://github.com/dr413677671/Seq2seq-attention-house-price-prediction/issues">Report Bug</a>
@@ -39,7 +36,7 @@
 
 ## About this project
 
-Seq2seq-attention house price prediction. See article [Zhihu Article »](https://zhuanlan.zhihu.com/p/106122616)
+Seq2seq-attention house price prediction. See [Zhihu Article »](https://zhuanlan.zhihu.com/p/106122616)
 
 基于Seq2seq-attention的房价预测，详见 [知乎文章 »](https://zhuanlan.zhihu.com/p/106122616)
 
